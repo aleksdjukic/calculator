@@ -1,0 +1,13 @@
+.table thead {
+    text-align: center;
+}
+
+.rezultat {
+    padding-left: 55px;
+}
+
+.rezultat p {
+    display: inline;
+    font-weight: bold;
+    margin: 0px 5px 0px 10px;
+}
